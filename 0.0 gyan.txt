@@ -1,0 +1,1 @@
+to remove last digit of any number divide by 10 or check 1:02:00 of codehelp babaar lecture 5

@@ -1,0 +1,15 @@
+&& --> both conditions need to be true
+|| --> any one condition true
+~ --> negation
+^ --> XOR --> if 1 true then true , both same then false
+
+<< --> left shift --> 5<<1 --> 000000000101 --> 000000001010
+>> --> rigth shift --> 5>>2 --> 000000000101 --> 000000000001
+
+i++ --> post increment  --> first use then increase 
+++i --> pre increment --> first increase then use
+
+i-- --> post decrement --> first use then decrease
+--i --> pre decrement --> first decrease then use 
+
+

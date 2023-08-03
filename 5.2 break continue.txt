@@ -1,0 +1,2 @@
+break --> current loop se baher le ayega
+continue --> used to skip the current iteration of loop and continue with next iteration.
